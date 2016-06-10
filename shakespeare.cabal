@@ -66,8 +66,8 @@ library
                      Text.Shakespeare.Base
                      Text.Shakespeare
                      Text.TypeScript
-    other-modules:   Text.Hamlet.Parse
-                     Text.Css
+                     Text.Hamlet.Parse
+    other-modules:   Text.Css
                      Text.MkSizeType
                      Text.IndentToBrace
                      Text.CssCommon
